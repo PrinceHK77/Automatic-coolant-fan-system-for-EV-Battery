@@ -25,7 +25,7 @@ This project implements an intelligent battery cooling system using:
 - ♻️ Scalable for Real-World EV Applications
 
 ---
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cc958a00-960e-4854-a8c9-3fab1d6b01fa)
 
 ## 🛠️ Components Used
 
@@ -47,6 +47,7 @@ This project implements an intelligent battery cooling system using:
 4. The fan turns off automatically when temperature drops.
 
 ---
+![image](https://github.com/user-attachments/assets/df02b8bd-c126-4c24-a005-58986d908352)
 
 ## 📁 Folder Structure
 
